@@ -4,40 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b89a3e2-11a5-44e8-9487-15a4e1ab0c70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/1c1bf795-30ad-4d09-b5a1-b0de819d10b5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/32a515b9-0d9a-4feb-a356-55ef9f1d5e33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/a8390616-19de-4fdb-bb75-0da6e2aabb8d.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/cd210aa4-f9f0-4e90-8942-82b51f0a53c6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/cf487571-b734-4261-b6b5-58de98a4f958.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/db534a19-e3b3-4a6f-8dd3-809b14ca9527.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/NotesModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/NotesModelFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/note/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/DeleteNoteServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/FullNoteViewerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/NoteEditorServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/NoteSummaryViewerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/NotesIndexServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/servlets/SortNotesServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/fullNoteViewer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/meta.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/noteEditor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/noteSummaryViewer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/notesIndex.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles.css" afterDir="false" />
-    </list>
+    <list default="true" id="8b89a3e2-11a5-44e8-9487-15a4e1ab0c70" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655827929921</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1655829678369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655829678369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
